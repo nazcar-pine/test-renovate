@@ -1,0 +1,10 @@
+{
+  "name": "devops-renovate-approve-test",
+  "version": "1.0.0",
+  "devDependencies": {
+    "request": "2.88.2"
+  },
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
